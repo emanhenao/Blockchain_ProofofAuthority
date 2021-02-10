@@ -1,0 +1,40 @@
+=============== Feb 8, 2021 (EST) ===============
+00:00:14.489702 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:00:14.496878 db@open opening
+00:00:14.500704 version@stat F·[] S·0B[] Sc·[]
+00:00:14.503260 db@janitor F·2 G·0
+00:00:14.503260 db@open done T·6.3825ms
+00:00:14.512235 db@close closing
+00:00:14.512235 db@close done T·0s
+=============== Feb 8, 2021 (EST) ===============
+00:03:15.932674 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:03:15.932674 version@stat F·[] S·0B[] Sc·[]
+00:03:15.932674 db@open opening
+00:03:15.933670 journal@recovery F·1
+00:03:15.939753 journal@recovery recovering @1
+00:03:15.944907 memdb@flush created L0@2 N·15 S·1KiB "H\xe3#..\x1d\x9b\b,v8":"\xee;\xcf..ŔK,v5"
+00:03:15.949954 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+00:03:15.954839 db@janitor F·3 G·0
+00:03:15.954839 db@open done T·22.1656ms
+=============== Feb 8, 2021 (EST) ===============
+00:04:58.602575 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:04:58.603576 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+00:04:58.603576 db@open opening
+00:04:58.603576 journal@recovery F·1
+00:04:58.610557 journal@recovery recovering @3
+00:04:58.614588 memdb@flush created L0@5 N·15 S·978B "Dat..ion,v17":"r\x00\x00..g\xceX,v29"
+00:04:58.621616 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:04:58.627606 db@janitor F·4 G·0
+00:04:58.627606 db@open done T·24.0301ms
+=============== Feb 8, 2021 (EST) ===============
+00:06:07.505479 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:06:07.506478 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:06:07.506478 db@open opening
+00:06:07.506478 journal@recovery F·1
+00:06:07.510467 journal@recovery recovering @6
+00:06:07.516918 memdb@flush created L0@8 N·1 S·216B "Las..der,v33":"Las..der,v33"
+00:06:07.524926 version@stat F·[3] S·2KiB[2KiB] Sc·[0.75]
+00:06:07.529686 db@janitor F·5 G·0
+00:06:07.529686 db@open done T·23.2078ms
+00:25:25.372690 db@close closing
+00:25:25.374687 db@close done T·1.9971ms
